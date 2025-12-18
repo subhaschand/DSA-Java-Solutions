@@ -20,6 +20,7 @@ public class InvertLeftHalfPyramid {
       }
       System.out.println();
     }
+    sc.close();
   }
   
 }
