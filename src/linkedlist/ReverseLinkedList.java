@@ -5,6 +5,9 @@ class ListNode {
     int val;
     ListNode next;
     ListNode(int val) { this.val = val; }
+    public ListNode(int i, ListNode head) {
+      //TODO Auto-generated constructor stub
+    }
 }
 
 public class ReverseLinkedList {
