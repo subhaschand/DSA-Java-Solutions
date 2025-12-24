@@ -1,3 +1,4 @@
+package linkedlist;
 public class SwapNode {
 
     public ListNode swapPairs(ListNode head) {
