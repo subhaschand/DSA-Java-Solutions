@@ -1,4 +1,5 @@
-import basicproblems;
+package basicproblems;
+
 public class CountAndSay {
       public String countAndSay(int n) {
 
